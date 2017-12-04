@@ -81,6 +81,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`ID`, `firstname`, `lastname`, `username`, `Password_digest`, `salt`) VALUES
+(1, 'Shanell', 'Brown', 'shanellbrown@cheapomail.com', '498c01e3746add255c55c978bf3c3749', '500670543'),
 
 
 --
